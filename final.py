@@ -22,5 +22,3 @@ system("tar -xvzf latest.tar.gz -C /var/www/html")
 
 system("dnf install mysql -y")
 
-system("cp wp-config.php /var/www/html")
-
